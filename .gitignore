@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights / data
+*.h5
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
+*.csv
